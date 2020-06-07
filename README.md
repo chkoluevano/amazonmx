@@ -1,5 +1,5 @@
 # amazonmx
-Obtiene el precio de un producto por medio de una URL de amazon méxico ( excepto libros)
+Obtiene el precio de un producto por medio de una URL de amazon méxico ( excepto libros y ropa (hasta ahora))
 
 ## Usage
 ```python
